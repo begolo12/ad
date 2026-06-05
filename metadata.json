@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Multiplayer",
+  "description": "Game Ludo online multi-player dengan obrolan suara, bot, dan kustomisasi papan.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
